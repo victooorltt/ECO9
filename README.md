@@ -1,4 +1,4 @@
-# ECO-9: La última señal
+# ECO-9
 
 Videojuego de exploración en realidad virtual realizado con **Unity 2020.3.49** para **Google Cardboard**, como práctica de la asignatura *Realidad y Accesibilidad Aumentadas* de la Universidad de Oviedo.
 
